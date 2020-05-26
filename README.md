@@ -24,7 +24,8 @@ _You **can** combine them_
 
 [Clyde Biza LinkedIn Profile](https://www.linkedin.com/in/clydebiza/)
 
-### Tables (###)
+## Tables
+### Table 01
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -32,9 +33,27 @@ _You **can** combine them_
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+### Table 02
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ## Lists
 ### Unordered List
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
+### Ordered Lists
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+## Blockquotes
+#### As Kanye West said:
+
+> We're living the future so
+> the present is our past.
